@@ -13,6 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
   - This would be the booking section of the webpage. A custom form for the coffee shop was made for users to book a reservation.
 - CSS animation and transform
   - An example of this is the pulsating circle creating in the about section of this project's webpage.
+  - ![D9F51F05-033A-431A-A3D7-0B249B2568F0_1_201_a](https://github.com/Wyllyumm/se_project_coffeeshop/assets/167792287/1512ced6-9386-4425-bfb8-840e242457d4)
 - Also utilizes anchor links and identifiers
 - Utilizes newer concept and incorporates them within the project such as the 'span' element. This element was used for both style and span element stretching to create the menu section.
   - example: '''<span class=header__span-accent>'''
